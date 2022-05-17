@@ -1,6 +1,6 @@
 # Solving REACHER with Deep Reinforcement Learning
 
-![image-20220516022528231](/home/ada/CodeProjects/Deep-RL-Engineering/images/image-2022051602224445311.png)
+![image-20220516022528231](./images/image-2022051602224445311.png)
 
 ## Project Details 
 
