@@ -1,9 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b2865e6b-95df-4456-bd7a-8c14887893c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.md" beforeDir="false" afterPath="$PROJECT_DIR$/report.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_actor_0.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_actor_1.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_actor_10.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_actor_11.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_actor_12.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_actor_13.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_actor_14.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_actor_15.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_actor_16.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_actor_17.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_actor_18.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_actor_19.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_actor_2.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_actor_3.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_actor_4.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_actor_5.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_actor_6.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_actor_7.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_actor_8.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_actor_9.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_critic_0.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_critic_1.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_critic_10.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_critic_11.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_critic_12.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_critic_13.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_critic_14.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_critic_15.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_critic_16.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_critic_17.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_critic_18.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_critic_19.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_critic_2.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_critic_3.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_critic_4.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_critic_5.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_critic_6.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_critic_7.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_critic_8.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg1/checkpoint_critic_9.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_actor_0.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_actor_1.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_actor_10.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_actor_11.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_actor_12.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_actor_13.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_actor_14.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_actor_15.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_actor_16.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_actor_17.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_actor_18.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_actor_19.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_actor_2.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_actor_3.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_actor_4.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_actor_5.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_actor_6.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_actor_7.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_actor_8.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_actor_9.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_critic_0.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_critic_1.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_critic_10.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_critic_11.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_critic_12.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_critic_13.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_critic_14.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_critic_15.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_critic_16.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_critic_17.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_critic_18.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_critic_19.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_critic_2.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_critic_3.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_critic_4.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_critic_5.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_critic_6.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_critic_7.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_critic_8.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/ddpg2/checkpoint_critic_9.pth" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
